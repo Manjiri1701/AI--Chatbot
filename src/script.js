@@ -4,7 +4,7 @@ let chatContainer=document.querySelector(".chat-container")
 let btn=document.querySelector(".btn")
 let userMessage=null
 
-let Api_url='GEMINI API KEY'
+let Api_url='' //GEMINI API KEY
 
 //const Api_url=paste here your api url , you can watch it on my video
 function createChatBox(html,className){
